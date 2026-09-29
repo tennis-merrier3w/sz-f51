@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tennis-merrier3w.github.io/sz-f51/sitemap.xml
